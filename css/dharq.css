@@ -1,0 +1,39 @@
+main, footer {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 28px;
+    color: #7d7987;
+    
+}
+
+
+
+.title {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    font-weight: 400;
+    color: black;
+    line-height: 56px;
+    text-align: center;
+}
+
+.text {
+    font-family: 'Open Sans', sans-serif;
+    color: gray;
+}
+
+footer a {
+    color: #6c63ff;
+    padding-left: 20px;
+    
+}
+
+.cor {
+    color: #6c63ff;
+}
+
+hr {
+    background-color: #eceff2;
+    border: 1px solid #eceff2;
+    width: 800px;
+}
